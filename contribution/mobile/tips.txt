@@ -108,9 +108,12 @@ Complete quests for a good amount of Bitcoin and exp.
 How to level up faster? Stay away from chat.
 In order to craft a key to unlock the next area, you need to travel to all 3 sub-areas and get the key in each dungeon boss room.
 Is an area locked even though you unlocked it with a key? You may be underleveled.
-SCAVANGING or doing afk tasks at [COMMERCIAL AREA] has little impact to spaces in your inventory.
+SCAVENGING or doing afk tasks at [COMMERCIAL AREA] has little impact to spaces in your inventory.
 When your level is high, you might notice quests are no longer impactful to your BTC balance. You can still do them for fun.
 Printing high quality caches is significantly more expensive than common and trash caches.
+You can only have at most 4 players in a dungeon to consistently have everyone reap the rewards of every enemy.
+Feel that challenge dungeons are not a challenge? Try meeting up with your gang for a gang dungeon for extra xp! Note: Have very good quality gear and modules before you enter!
+Confused as to why you need to earn scavenging levels to unlock scavenging? Start at the first area, as it has no requirements.
 
 // Social, Chat, UI, Systems
 In the chat terminal, you can press [Up Arrow] key to access the last message you send.
@@ -141,13 +144,16 @@ Calibrating gear makes it stronger, but calibrated gear cannot be gifted or sold
 Each level of calibration on gear adds more to the item than the last level, but is more likely to break the item as well.
 You can use AI cores in locations with much higher level than you. Collect keys from dungeons to unlock them early.
 
+
 // Equipment attributes
 BARGAIN does not affect price in player-run stalls.
 Some attributes are exclusive to certain kinds of equipment, for example, weapons have no EVADE.
 Total STUN caps at only 20%. Some attributes have much higher ceiling, such as Crit Damage.
 REGEN and ESCAPE do nothing in nearby enemies battles.
-An equipement with higher quality does not mean its attribute is better, but its primary stat is usually better.
+An equipment with higher quality does not mean its attribute is better, but its primary stat is usually better.
 BARGAIN equipment are not worth more when sold, instead, when you wear BARGAIN equipment, anything you sell to NPC will worth more.
+STUN and EVADE roll one after another. They don't just add together!
+POCKET is increasingly useful the more content you unlock and use. You might want to consider going for a backpack upgrade to get more POCKET if your inventory feels cramped.
 
 // Combat, Enemies, Allies
 HP goes back to full after each battle, unless you're in a dungeon!
@@ -163,7 +169,7 @@ Challenge dungeons always have a tough boss so don't forget to bring your friend
 When you die, you'll lose some of your experience and 10% of your Bitcoins, so be careful!
 Use only primary weapons to overpower street monsters to save ammo.
 You can't enter a dungeon that is 10 levels above your level. It's for your own good.
-If you can survive one hit in a dungeon with a sizable health bar remaining, you can win by keeping yourself healed!
+If you can survive one hit in a dungeon with a sizable health bar remaining, you can win by keeping yourself healed! Disclaimer: May not work on Precise enemies as they can crit.
 Are you at Death's door in the middle of the treasure room? Ask for support in the chat and direct them to your dungeon!
 Are enemies taking too long to kill? Try increasing your critical chance and critical damage modifier.
 You can enter dungeons already in progress to get quests and loot!
@@ -181,6 +187,8 @@ You can join a dungeon without fighting anything. Use it to your advantage, incl
 DO NOT press your luck if you feel your health is just enough to take another hit.
 If you pressed attack and the game lags, DO NOT SPAM ATTACK! Wait, refresh or restart the game.
 If you apparently clicked on an enemy but it shows "Nothing is found", DON'T CLICK "Go back", you should refresh the game.
+Enemy has a shield? Use a special weapon for 20% extra damage!
+Enemies may get a 10% damage reduction or increase based on their faction and your equipment affiliation. You may swap out your equipment to take advantage of this.
 
 // Misc, Fun, Purchases
 Feeling faint? Stop playing and get some food.
