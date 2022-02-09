@@ -246,6 +246,7 @@ KingRiver
 [kt0t0wh0](https://github.com/kt0t0Sudd3n)
 [MagicCookie](https://github.com/GooseGooseStop)
 [RaykouTJ](https://github.com/HoneySyrup)
+[Lance0](https://github.com/Lance0-32)
 [levi-middleton](https://github.com/levi-middleton)
 [Misaki](https://github.com/Misaki290)
 Mist
